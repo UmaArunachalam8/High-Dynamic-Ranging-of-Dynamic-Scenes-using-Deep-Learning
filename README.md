@@ -1,4 +1,4 @@
-# High Dynamic Ranging of Dynamic Scenes using Deep Learning
+# High Dynamic Range Imaging of Dynamic Scenes using Deep Learning
 
 ## Prepare data- Aligned images generation
 ```
