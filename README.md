@@ -14,3 +14,4 @@ python3 main.py #check utils for all args and change parameters accordingly
 ```
 python3 test.py
 ```
+For more details, click [here](uarunach_FinalProjectReport.pdf)
